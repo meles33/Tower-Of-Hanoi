@@ -18,7 +18,7 @@ void move(int num_disk, char *source, char *intermediate , char *destination)
 int main(void)
 {
 	cout<<"\n*********************************************\n";
-	cout<<"     Aturcara Teknik Rekursif Menara Hanoi";
+	cout<<"     Meles Menara Hanoi";
 	cout<<"\n*********************************************\n";
 
 	int bil_disk;
